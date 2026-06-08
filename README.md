@@ -1,3 +1,6 @@
+ 💫 About Me:
+🚀 Passionate Full Stack Developer (in progress)<br>💻 Skilled in: HTML, CSS, JavaScript, React<br>⚙️ Currently exploring: Next.js & Backend Development<br><br>🌱 I’m currently learning:<br>Python Full Stack & building real-world projects<br><br>🤝 Open to:<br>Collaboration on web projects & startups<br><br>🎯 Goal:<br>To become a professional software developer and build impactful applications<br><br>⚡ Fun fact:<br>I debug more than I code 😄
+
 
 ## 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Shruti Chauhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chauhanshruti932@gmail.com) 
